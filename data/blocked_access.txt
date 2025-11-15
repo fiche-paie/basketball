@@ -1,0 +1,4 @@
+2025-11-15 13:50:49 - BLOCKED - IP: 185.177.229.130 - Reason: VPN - UserAgent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+2025-11-15 13:53:08 - BLOCKED - IP: 57.129.140.187 - Reason: VPN - UserAgent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+2025-11-15 13:54:53 - BLOCKED - IP: 57.129.140.187 - Reason: VPN - UserAgent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+2025-11-15 14:28:15 - BLOCKED - IP: 2a02:8428:5e22:6e01:fc1a:d682:20c9:79f7 - Reason: PC_NON_AUTORISE - UserAgent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
